@@ -1,0 +1,22 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devicurius/dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devicurius/dev/issues"
+  },
+  "homepage": "https://github.com/Devicurius/dev#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
